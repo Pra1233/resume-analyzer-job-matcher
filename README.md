@@ -134,7 +134,7 @@ This repository is now prepared for a single-site Netlify deployment:
 When creating the Netlify site, use:
 
 - Build command: `npm run build:client`
-- Publish directory: `dist`
+- Publish directory: `client/dist`
 
 ### Netlify environment variables
 
